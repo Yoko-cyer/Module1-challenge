@@ -1,3 +1,4 @@
+/* This targets every single element on the page. */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -15,6 +16,8 @@ header {
     color: #ffffff;
 }
 
+/* inline-block allows to set a width and height on the element.
+It also allowa elements to sit next to each other. */
 .hori {
     display: inline-block;
     font-size: 48px;
