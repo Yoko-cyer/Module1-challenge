@@ -34,6 +34,6 @@ I used Trello for project management.
 ----
 ## Links
 
-[Reposityry on Github](https://www.example.com)
+[Reposityry on Github](https://github.com/Yoko-cyer/Module1-challenge)
 
-[Deployed Site](https://www.example.com)
+[Deployed Site](https://module1-challenge.netlify.app)
