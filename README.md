@@ -14,14 +14,26 @@ I refactored this web site’s code to pass Module 1 challenge for Coding Boot c
 ## User Story
 
 As I a junior web developer
+
 I want to refactor code and compress images 
+
 SO THAT our customers’ website is optimized for search engines
 
 ----
 
+## Screenshot
+
+![Screenshot](./Develop/assets/images/screenshot.png)
+---
 ## Project Management
 
 I used Trello for project management. 
 
+![Trello](./Develop/assets/images/trello_img.png)
+
 ----
 ## Links
+
+[Reposityry on Github](https://www.example.com)
+
+[Deployed Site](https://www.example.com)
